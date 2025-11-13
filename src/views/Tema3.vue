@@ -1240,8 +1240,8 @@
               .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema3/80.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 Sea buena para el planeta,
-                p.mb-0 Pero también justa e inclusiva para las personas,
+                p.mb-0 Sea buena para el planeta.
+                p.mb-0 Pero también justa e inclusiva para las personas.
                 p.mb-0 Y que fortalezca el bienestar, la equidad y la cultura en las comunidades rurales.
     
     separador
@@ -1381,7 +1381,7 @@
                 img(src='@/assets/curso/tema3/88.svg', alt='Texto que describa la imagen')
           div.text-center
             H5 Desvinculación del equilibrio natural
-            p Lo que antes ofrecía la naturaleza como la fertilidad del suelo, los abonos orgánicos y las semillas propias hoy ha sido reemplazado por insumos industriales que generan dependencia económica.
+            p Lo que antes ofrecía la naturaleza, como la fertilidad del suelo, los abonos orgánicos y las semillas propias, hoy ha sido reemplazado por insumos industriales que generan dependencia económica.
     
     p.mb-5 En consecuencia, muchos campesinos no pueden cultivar si no cuentan con dinero suficiente para adquirir insumos externos, lo que dificulta su autonomía y sostenibilidad.
 
@@ -1390,7 +1390,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Ausencia de una reglamentación específica
     
-    p.mb-5 Actualmente en Colombia no existe una reglamentación clara que proteja el derecho de los campesinos sobre las semillas, especialmente las nativas y criollas. Esto genera tensiones en temas fundamentales como:
+    p.mb-5 Actualmente, en Colombia no existe una reglamentación clara que proteja el derecho de los campesinos sobre las semillas, especialmente las nativas y criollas. Esto genera tensiones en temas fundamentales como:
 
     .row.mb-5
       .col-lg-5.mb-3.mb-lg-0
