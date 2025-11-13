@@ -496,7 +496,7 @@
           .bg-color-white.p-4.h-100.shadow-app
             img(src='@/assets/curso/tema2/29.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Normatividad
-            p.text-center Expedir normas y reglamentos ambientales
+            p.text-center Expedir normas y reglamentos ambientales.
           .bg-color-white.p-4.h-100.shadow-app
             img(src='@/assets/curso/tema2/30.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Licenciamiento
@@ -516,7 +516,7 @@
           .bg-color-white.p-4.h-100.shadow-app
             img(src='@/assets/curso/tema2/34.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Control y vigilancia
-            p.text-center Vigilar y sancionar infractores ambientales
+            p.text-center Vigilar y sancionar infractores ambientales.
           .bg-color-white.p-4.h-100.shadow-app
             img(src='@/assets/curso/tema2/35.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4 Participación ciudadana
@@ -606,7 +606,7 @@
                 img(src="@/assets/curso/tema2/41.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Contaminación de fuentes hídricas
-              p El uso intensivo de agroquímicos contamina ríos, quebradas y acuíferos. La escorrentía arrastra estos productos afectando la vida acuática y la salud humana.
+              p El uso intensivo de agroquímicos contamina ríos, quebradas y acuíferos. La escorrentía arrastra estos productos, afectando la vida acuática y la salud humana.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure

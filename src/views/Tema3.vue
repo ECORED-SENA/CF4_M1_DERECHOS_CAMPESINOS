@@ -98,8 +98,8 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/uHMElEH-y2A?si=FnejLHcME0gKk0kb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
   
     separador
     
@@ -259,7 +259,7 @@
                 p.mb-0 Ofrecer alimentos sanos, seguros y suficientes.     
               li.mb-3.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Diversificar cultivos y razas animales para fortalecer la dieta
+                p.mb-0 Diversificar cultivos y razas animales para fortalecer la dieta.
           div(titulo="Fomentar el bienestar de los productores").ms-5
             ul.lista-ul--color.mb-0.ms-3
               li.mb-3.d-flex
@@ -328,7 +328,7 @@
                 p.mb-0 Conservar y mejorar su estructura, aireación, humedad y fertilidad.
               li.mb-2.d-flex.bg-white.tarjeta.p-2
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Mantener la actividad biológica del suelo, favoreciendo los microorganismos y la materia orgánica
+                p.mb-0 Mantener la actividad biológica del suelo, favoreciendo los microorganismos y la materia orgánica.
     
     p.mb-5 Los ejemplos de prácticas sostenibles para conservar el suelo son:
 
@@ -697,13 +697,13 @@
             ul.lista-ul--color.mb-0.ms-3
               li.mb-3.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Árboles forrajeros: Leucaena leucocephala, Gliricidia sepium, Prosopis spp.   
+                p.mb-0 Árboles forrajeros: leucaena #[em leucocephala], #[em gliricidia] sepium, #[em prosopis] spp.   
               li.mb-3.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Maderables y frutales: Cedro, Caoba, Guayaba, Nance. 
+                p.mb-0 Maderables y frutales: cedro, caoba, guayaba, nance. 
               li.mb-3.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Pastos nutritivos: Brachiaria, Panicum, Estrella africana. 
+                p.mb-0 Pastos nutritivos: brachiaria, panicum, estrella africana. 
 
           div(titulo="Manejo adecuado de estiércoles y residuos").ms-5
             p Consiste en el aprovechamiento de desechos animales como fertilizantes orgánicos.
@@ -885,14 +885,14 @@
                 img(src="@/assets/curso/tema3/57.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Control biológico
-              p Empleo de enemigos naturales como insectos benéficos, hongos o bacterias. Ejemplos: mariquitas (pulgones), Trichogramma (avispa parasitoide), Bacillus thuringiensis (Bt).
+              p Empleo de enemigos naturales como insectos benéficos, hongos o bacterias. Ejemplos: mariquitas (pulgones), #[em Trichogramma] (avispa parasitoide), #[em Bacillus thuringiensis] (Bt).
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure
                 img(src="@/assets/curso/tema3/58.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Control físico o mecánico
-              p Trampas de luz, trampas con feromonas, mallas, barreras físicas, o remoción manual de plagas.
+              p Trampas de luz, trampas con feromonas, mallas, barreras físicas; o remoción manual de plagas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure
@@ -970,7 +970,7 @@
                 p.mb-0 Bienestar y seguridad de los trabajadores.
               li.mb-1.d-flex.bg-white.tarjeta.p-2
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 <b>Trazabilidad</b>: Registro y control de cada etapa del proceso productivo.
+                p.mb-0 <b>Trazabilidad</b>: registro y control de cada etapa del proceso productivo.
     
     .row.justify-content-center
       .col-lg-10
