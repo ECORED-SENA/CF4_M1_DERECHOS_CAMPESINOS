@@ -23,7 +23,7 @@
                 .col-lg
                   .p-4
                     p.mb-0(data-aos="fade-up") La relación entre el medio ambiente y las actividades agropecuarias siempre ha sido muy estrecha, ya sea porque es armónica y equilibrada o porque estas actividades contribuyen a deteriorar el medio natural. Con la preocupación actual del cambio climático y la presión que ejercen los seres humanos sobre los recursos naturales, la mejor decisión es estar del lado de la naturaleza, cuidándola, protegiéndola y aprovechando de manera respetuosa lo que nos provee.
-            p(data-aos="fade-left") En este componente formativo además de repasar los diferentes tipos de producción agropecuaria en Colombia y enumerar los impactos ambientales que pueden generarse, se enfatiza en los beneficios ambientales, sociales y económicos de la producción agropecuaria sostenible. Este enfoque ofrece a los campesinos alternativas productivas, mayor autonomía y soberanía sobre los insumos, ingresos estables y una vida más tranquila, sin depender en exceso del dinero.
+            p(data-aos="fade-left") En este componente formativo, además de repasar los diferentes tipos de producción agropecuaria en Colombia y enumerar los impactos ambientales que pueden generarse, se enfatiza en los beneficios ambientales, sociales y económicos de la producción agropecuaria sostenible. Este enfoque ofrece a los campesinos alternativas productivas, mayor autonomía y soberanía sobre los insumos, ingresos estables y una vida más tranquila, sin depender en exceso del dinero.
         
         .row.justify-content-center
           .col-lg-10

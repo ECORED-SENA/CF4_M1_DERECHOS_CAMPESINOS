@@ -3,7 +3,7 @@ export default {
     Name:
       'Desarrollemos nuestro quehacer agropecuario y nuestra vida campesina, al tiempo que cuidamos el medio ambiente',
     Description:
-      'El componente formativo analiza los modos de producción agropecuaria en Colombia y sus impactos ambientales, revisando normativas vigentes y acuerdos internacionales. Destaca la importancia de la seguridad y soberanía alimentaria, junto con prácticas agroecológicas y sostenibles que protegen suelo, agua, biodiversidad y bienestar animal. Promueve alternativas productivas responsables para fortalecer la resiliencia climática, la autonomía campesina y la vida digna en el campo ',
+      'El componente formativo analiza los modos de producción agropecuaria en Colombia y sus impactos ambientales, revisando normativas vigentes y acuerdos internacionales. Destaca la importancia de la seguridad y soberanía alimentaria, junto con prácticas agroecológicas y sostenibles que protegen suelo, agua, biodiversidad y bienestar animal. Promueve alternativas productivas responsables para fortalecer la resiliencia climática, la autonomía campesina y la vida digna en el campo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

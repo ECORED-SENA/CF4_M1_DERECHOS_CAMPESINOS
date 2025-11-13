@@ -43,14 +43,14 @@
                 img(src="@/assets/curso/tema1/3.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Tamaño de la unidad productiva
-              p La unidad productiva, es decir, la finca o parcela, suele ser pequeña, tipo minifundio. Cuando su tamaño no alcanza para suplir las necesidades de la familia que trabaja en ella, se generan problemas como pobreza rural, el desplazamiento de los jóvenes a la ciudad, y una desintegración familiar y social en las comunidades.
+              p La unidad productiva, es decir, la finca o parcela, suele ser pequeña, tipo minifundio. Cuando su tamaño no alcanza para suplir las necesidades de la familia que trabaja en ella, se generan problemas como pobreza rural, el desplazamiento de los jóvenes a la ciudad y una desintegración familiar y social en las comunidades.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure
                 img(src="@/assets/curso/tema1/4.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Mano de obra y decisiones
-              p La mano de obra es mayoritariamente familiar. No se contratan empleados externos. Las decisiones sobre qué sembrar, cómo producir o cuándo cosechar, son tomadas por la misma familia que trabaja la tierra.
+              p La mano de obra es mayoritariamente familiar. No se contratan empleados externos. Las decisiones sobre qué sembrar, cómo producir o cuándo cosechar; son tomadas por la misma familia que trabaja la tierra.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure
@@ -78,14 +78,14 @@
                 img(src="@/assets/curso/tema1/8.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Relación con la naturaleza
-              p Existe una conexión profunda con el territorio, los ecosistemas, la biodiversidad y los ciclos naturales. Se prioriza el cuidado del suelo, la conservación del agua, y la protección de la diversidad de cultivos como parte integral del trabajo agrícola.
+              p Existe una conexión profunda con el territorio, los ecosistemas, la biodiversidad y los ciclos naturales. Se prioriza el cuidado del suelo, la conservación del agua; y la protección de la diversidad de cultivos como parte integral del trabajo agrícola.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure
                 img(src="@/assets/curso/tema1/9.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Diversidad productiva
-              p A diferencia de la agricultura industrial que tiende al monocultivo, en la producción campesina se combinan múltiples cultivos y especies: por ejemplo, maíz, papa, hortalizas, frutales, legumbres y animales de corral. Esta diversidad permite garantizar la seguridad alimentaria y reduce la dependencia del mercado o de productos importados.
+              p A diferencia de la agricultura industrial, que tiende al monocultivo, en la producción campesina se combinan múltiples cultivos y especies: por ejemplo, maíz, papa, hortalizas, frutales, legumbres y animales de corral. Esta diversidad permite garantizar la seguridad alimentaria y reduce la dependencia del mercado o de productos importados.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure
