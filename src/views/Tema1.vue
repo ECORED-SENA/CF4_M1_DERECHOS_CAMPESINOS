@@ -145,7 +145,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
             h3.titulo-con-imagen__texto ¿Qué son alimentos nutritivos y culturalmente apropiados para la alimentación humana en el contexto de una comunidad campesina en Colombia?
         
-        p.mb-5 Los alimentos nutritivos y culturalmente apropiados son aquellos que no solo satisfacen las necesidades biológicas del ser humano, sino que también respetan las tradiciones, costumbres y entorno cultural de una comunidad. Un ejemplo claro en el contexto colombiano son alimentos como los envueltos, el queso y la gallina, ampliamente consumidos por los campesinos. Estos representan una dieta que es nutritiva y a la vez culturalmente significativa. Las características clave de los alimentos nutritivos y culturalmente  son: apropiados
+        p.mb-5 Los alimentos nutritivos y culturalmente apropiados son aquellos que no solo satisfacen las necesidades biológicas del ser humano, sino que también respetan las tradiciones, costumbres y entorno cultural de una comunidad. Un ejemplo claro en el contexto colombiano son alimentos como los envueltos, el queso y la gallina, ampliamente consumidos por los campesinos. Estos representan una dieta que es nutritiva y a la vez culturalmente significativa. Las características clave de los alimentos nutritivos y culturalmente  son:
     
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Nutritivos")
@@ -456,7 +456,7 @@
                   p.mb-0 Refrigeración de productos perecederos cuando sea necesario.
                 li.mb-3.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 EAtención al cliente con medidas básicas de higiene.
+                  p.mb-0 Atención al cliente con medidas básicas de higiene.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-2
               figure
@@ -552,7 +552,7 @@
                       img(src="@/assets/curso/tema1/43.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Fundamento
-                      p.mb-0 Se rige por principios ecológicos y sostenibles
+                      p.mb-0 Se rige por principios ecológicos y sostenibles.
               .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
                   .row.align-items-start
@@ -577,7 +577,7 @@
                       img(src="@/assets/curso/tema1/44.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Escala de producción
-                      p.mb-0 Puede darse en pequeña o mediana escala
+                      p.mb-0 Puede darse en pequeña o mediana escala.
             .row.mb-3
               .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
@@ -643,7 +643,7 @@
                   img(src="@/assets/curso/tema1/56.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Ciclos naturales cerrados
-                  p.mb-0 La naturaleza recicla todo: no genera residuos. Ejemplo: ciclo del agua, del carbono
+                  p.mb-0 La naturaleza recicla todo: no genera residuos. Ejemplo: ciclo del agua, del carbono.
           .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start

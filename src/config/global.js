@@ -82,7 +82,7 @@ export default {
           {
             numero: '2.2',
             titulo:
-              'Normatividad a cerca del medio ambiente y el impacto ambiental',
+              'Normatividad acerca del medio ambiente y el impacto ambiental',
             hash: 't_2_2',
           },
           {
@@ -199,7 +199,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=wecRNoQ6AJA',
     },
     {
-      tema: 'Normatividad a cerca del medio ambiente y el impacto ambiental',
+      tema: 'Normatividad acerca del medio ambiente y el impacto ambiental',
       referencia:
         'Instituto Colombiano Agropecuario. (2017, 28 de abril). Resolución 030021: Por medio de la cual se establecen los requisitos para la certificación en Buenas Prácticas Agrícolas en producción primaria de vegetales y otras especies para consumo humano. Diario Oficial No. 50.224.',
       tipo: 'PDF',
@@ -207,7 +207,7 @@ export default {
         'https://www.ica.gov.co/getattachment/9d8fe0fa-66d2-4feb-9513-cbba30dc4844/2017R30021.aspx',
     },
     {
-      tema: 'Normatividad a cerca del medio ambiente y el impacto ambiental',
+      tema: 'Normatividad acerca del medio ambiente y el impacto ambiental',
       referencia:
         'Instituto Colombiano Agropecuario. (2020, 29 de diciembre). Resolución 082394: Por medio de la cual se modifican los artículos 2, 3, 4, 12 y 14 de la Resolución 30021 de 2017. Diario Oficial No. 51.543.',
       tipo: 'PDF',
@@ -215,14 +215,14 @@ export default {
         'https://www.ica.gov.co/getattachment/446ac25a-0fd7-4fd8-ae9f-2e50f0047c8b/2020R82394.aspx',
     },
     {
-      tema: 'Normatividad a cerca del medio ambiente y el impacto ambiental',
+      tema: 'Normatividad acerca del medio ambiente y el impacto ambiental',
       referencia:
         'TVAgro. (2024, 22 de junio). Certifique su predio en buenas prácticas agrícolas – TvAgro por Juan Gonzalo Ángel Restrepo [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=l5A3UzBSCIY',
     },
     {
-      tema: 'Normatividad a cerca del medio ambiente y el impacto ambiental',
+      tema: 'Normatividad acerca del medio ambiente y el impacto ambiental',
       referencia:
         'Instituto Colombiano Agropecuario - ICA. (2024, 26 de diciembre). El ICA promueve las buenas prácticas ganaderas [Video]. YouTube.',
       tipo: 'Video',

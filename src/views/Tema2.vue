@@ -128,7 +128,7 @@
     separador
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Normatividad a cerca del medio ambiente y el impacto ambiental
+      h2 2.2 Normatividad acerca del medio ambiente y el impacto ambiental
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
