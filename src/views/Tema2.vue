@@ -332,7 +332,7 @@
                   TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                     texto="¿Qué es el SINA?"
                     tiempo
-                    :audio="require('../assets/curso/podcast/podcast1.mp3')"
+                    :audio="require('../assets/curso/podcast/podcast2.mp3')"
                   ) 
     
     h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Quiénes hacen parte del SINA?
