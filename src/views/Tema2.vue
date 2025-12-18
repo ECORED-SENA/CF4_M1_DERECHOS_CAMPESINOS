@@ -351,7 +351,7 @@
           div(titulo="Autoridades ambientales regionales y urbanas").ms-5
             p <b>CAR (Corporaciones Autónomas Regionales)</b>: gestionan el ambiente en sus regiones de forma autónoma y descentralizada. 
             p <b>AAU (Autoridades Ambientales Urbanas)</b>: actúan en ciudades con más de un millón de habitantes. Ejemplo: Secretaría Distrital de Ambiente - Bogotá; Área Metropolitana del Valle de Aburrá.
-          div(titulo="Acuerdo de París (2015)").ms-5
+          div(titulo="Otras entidades del Estado").ms-5
             p Otras entidades del Estado 
             ul.lista-ul--color.mb-0.ms-3
               li.mb-3.d-flex

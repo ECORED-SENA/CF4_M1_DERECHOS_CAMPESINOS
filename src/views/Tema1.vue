@@ -32,6 +32,94 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto ¿Qué es la producción agropecuaria tradicional, campesina o familiar?
     
+    //p.mb-5 Es una forma de agricultura y ganadería basada en el trabajo familiar, con conocimientos transmitidos de generación en generación, enmarcados en un vínculo cultural, social y económico profundo con la tierra. Esta modalidad tiene múltiples dimensiones que se presentan a continuación:
+
+    .row.mb-4
+      .col-lg-7
+        p.mb-4 Antes de responder la pregunta, es importante reflexionar sobre la economía campesina, entendida como un sistema de producción con características propias que la diferencian de otros sistemas económicos. (En palabras sencillas un sistema económico es el conjunto de actividades que realizan las personas, empresas y gobiernos para producir, distribuir y consumir bienes y servicios).
+
+        .bg-color-4.mb-5.tarjeta
+          .px-4.px-md-5.py-4
+            p.mb-0 La economía campesina es una forma de organización económica desarrollada por las familias rurales, basada en el trabajo familiar, el uso sostenible de los recursos naturales y la diversificación de actividades. Su objetivo central no es la maximización de ganancias, sino garantizar el bienestar familiar, la autosuficiencia, la seguridad alimentaria y la permanencia en el territorio. 
+
+
+      .col-lg-5
+        figure
+          img(src="@/assets/curso/tema1/71.png")
+
+
+    p.mb-5 Un sistema de economía campesina presenta las siguientes características: 
+
+    .bg-full-width.bg-fondo-slider.mb-5#Slyde1
+      .p-4.p-md-5
+        SlyderA(tipo="b").bg-color-white-1.p-4
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/72.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Trabajo familiar
+              p Base del sistema productivo. Participan todos los miembros del hogar, desde niños hasta abuelos, según sus capacidades.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/73.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Relación con la tierra
+              p La tierra no es solo un recurso económico, sino parte del territorio, de la identidad y de la vida comunitaria.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/74.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Diversificación productiva
+              p Se combinan actividades como la agricultura, producción pecuaria, recolección, transformación artesanal y oficios complementarios.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/75.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Intercambio solidario y redes comunitarias
+              p Prácticas como el trueque, las mingas y el apoyo mutuo fortalecen los lazos sociales y económicos.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/76.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Uso sostenible de recursos
+              p Se privilegian prácticas tradicionales y agroecológicas, asegurando la conservación del entorno natural.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/77.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Enfoque de autoconsumo
+              p La producción se orienta a cubrir las necesidades del hogar. Solo los excedentes se destinan a la venta o al intercambio.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/78.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Autonomía frente al mercado de capitales
+              p No se rige por una lógica puramente monetaria ni por la maximización de utilidades. El objetivo es vivir dignamente en armonía con la naturaleza.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.mb-3.mb-lg-0.order-2
+              figure
+                img(src="@/assets/curso/tema1/79.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Interrelación cultural
+              p Las actividades económicas están entrelazadas con la vida cultural campesina, expresándose en la gastronomía, fiestas, rituales y prácticas cotidianas.
+
+
+
+    .bg-color-25.mb-5.tarjeta
+      .px-4.px-md-5.py-4
+        .row.align-items-center
+          .col-lg-auto.mb-3.mb-lg-0
+            img(src="@/assets/curso/tema1/80.svg", style="max-width: 90px").mx-auto
+          .col-lg
+            p.mb-0 <b>La economía campesina</b> es más que un modelo de producción: es un <b>modo de vida</b>. Se caracteriza por su <b>autonomía, su arraigo territorial</b>, su relación equilibrada con el ambiente y su <b>estructura comunitaria y cultural</b>. Constituye, por tanto, una forma esencial de organización económica en el campo, alternativa a los modelos orientados exclusivamente por el mercado y la acumulación de capital. 
+
     p.mb-5 Es una forma de agricultura y ganadería basada en el trabajo familiar, con conocimientos transmitidos de generación en generación, enmarcados en un vínculo cultural, social y económico profundo con la tierra. Esta modalidad tiene múltiples dimensiones que se presentan a continuación:
 
     .bg-full-width.bg-fondo-slider.mb-5

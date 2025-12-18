@@ -1036,6 +1036,22 @@
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Prácticas de economía circular y reciclaje
+
+    .row.mb-4
+      .col-lg-7
+        p.mb-4 La economía circular y el reciclaje se entienden de manera diferente cuando se aplican dentro de la economía campesina, ya que muchas de estas prácticas han estado presentes desde tiempos ancestrales, aunque no se hayan nombrado de esa forma.  
+
+        .bg-color-24.mb-4.tarjeta
+          .px-4.px-md-5.py-4
+            p.mb-0 Por ejemplo, el uso de estiércoles como abono, la boñiga seca para alimentar estufas y la utilización de semillas y otros materiales en la elaboración de artesanías son expresiones concretas de una lógica de aprovechamiento y reutilización de recursos.
+
+        p.mb-4 Sin embargo, con la incorporación de materiales provenientes de la era industrial y tecnológica, como plásticos, pilas o celulares, que son altamente contaminantes, las comunidades campesinas enfrentan nuevos desafíos. Esto requiere ajustar ciertas prácticas, recuperar saberes ancestrales y adoptar métodos actuales que sean respetuosos con el medioambiente, siguiendo los principios de reducir, reutilizar y reciclar.
+
+      .col-lg-5
+        figure
+          img(src="@/assets/curso/tema3/101.png")
+
+    p.mb-5 Estas acciones permiten mantener la esencia de la economía campesina, fortaleciendo su relación con la naturaleza y adaptándola a los retos del mundo contemporáneo.
     
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
